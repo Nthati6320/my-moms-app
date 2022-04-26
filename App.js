@@ -3,8 +3,7 @@ import { StyleSheet, View, Text ,ScrollView, Image } from 'react-native';
 import { FontAwesome5 } from '@expo/vector-icons';
 import { Ionicons } from '@expo/vector-icons';
 import { AntDesign } from '@expo/vector-icons';
-
-
+//The Stuff
 
 export default function App() {
   return (
